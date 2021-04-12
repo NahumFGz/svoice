@@ -5,6 +5,6 @@ hydra_core
 hydra_core
 hydra_colorlog
 pystoi==0.3.3
-torchaudio=0.7.0
+torchaudio==0.7.0
 librosa==0.7.1
 numba==0.48
