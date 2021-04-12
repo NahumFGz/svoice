@@ -1,7 +1,7 @@
 pesq==0.0.1
 numpy==1.19.4
 tqdm==4.51.0
-hydra_core
+hydra
 hydra_core
 hydra_colorlog
 pystoi==0.3.3
