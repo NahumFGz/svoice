@@ -18,7 +18,7 @@ def preprocess_one_dir(in_dir, out_dir, out_filename, sample_rate=8000):
     in_dir = os.path.abspath(in_dir)
     wav_list = os.listdir(in_dir)
     for wav_file in tqdm(wav_list):
-        if not wav_file.endswith('.ogg'):
+        if not wav_file.endswith('.wav'):
             continue
         wav_path = os.path.join(in_dir, wav_file)
         samples, _ = librosa.load(wav_path, sr=sample_rate)

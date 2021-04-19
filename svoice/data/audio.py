@@ -20,7 +20,7 @@ from torch.nn import functional as F
 
 # If used, this should be saved somewhere as it takes quite a bit
 # of time to generate
-def find_audio_files(path, exts=[".ogg"], progress=True):
+def find_audio_files(path, exts=[".wav"], progress=True):
     audio_files = []
     for root, folders, files in os.walk(path, followlinks=True):
         for file in files:
