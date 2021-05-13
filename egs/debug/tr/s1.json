@@ -1,34 +1,122 @@
 [
     [
-        "/content/drive/MyDrive/DataSets/AudioSets/daniel_dataset_svoice_wav/s1/audio_conversacion_001.wav",
-        8677312
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_001.wav",
+        9600000
     ],
     [
-        "/content/drive/MyDrive/DataSets/AudioSets/daniel_dataset_svoice_wav/s1/audio_conversacion_002.wav",
-        8892096
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_002.wav",
+        9600000
     ],
     [
-        "/content/drive/MyDrive/DataSets/AudioSets/daniel_dataset_svoice_wav/s1/audio_conversacion_003.wav",
-        8814400
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_003.wav",
+        9600000
     ],
     [
-        "/content/drive/MyDrive/DataSets/AudioSets/daniel_dataset_svoice_wav/s1/audio_conversacion_004.wav",
-        8819648
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_004.wav",
+        9600000
     ],
     [
-        "/content/drive/MyDrive/DataSets/AudioSets/daniel_dataset_svoice_wav/s1/audio_conversacion_005.wav",
-        8601024
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_005.wav",
+        9600000
     ],
     [
-        "/content/drive/MyDrive/DataSets/AudioSets/daniel_dataset_svoice_wav/s1/audio_conversacion_006.wav",
-        8008960
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_006.wav",
+        9600000
     ],
     [
-        "/content/drive/MyDrive/DataSets/AudioSets/daniel_dataset_svoice_wav/s1/audio_conversacion_007.wav",
-        7848256
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_007.wav",
+        9600000
     ],
     [
-        "/content/drive/MyDrive/DataSets/AudioSets/daniel_dataset_svoice_wav/s1/audio_conversacion_008.wav",
-        7945536
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_008.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_009.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_010.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_011.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_012.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_013.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_014.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_015.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_016.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_017.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_018.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_019.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_020.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_021.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_022.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_023.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_024.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_025.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_026.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_027.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_028.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_029.wav",
+        9600000
+    ],
+    [
+        "/content/drive/MyDrive/DataSets/AudioSets/dataset_musdb_30_wav_frame_count/s1/audio_conversacion_030.wav",
+        9600000
     ]
 ]
