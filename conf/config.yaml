@@ -8,7 +8,7 @@ sample_rate: 8000
 segment: 4
 stride: 1    # in seconds, how much to stride between training examples
 pad: False #true   # if training sample is too short, pad it
-cv_maxlen: 8
+cv_maxlen: 10
 validfull: 1   # use entire samples at valid
 
 # Logging and printing, and does not impact training
@@ -33,8 +33,8 @@ seed: 2036
 dummy:  # use this if you want twice the same exp, with a name
 
 # Evaluation stuff
-pesq: false # compute pesq?
-eval_every: 15
+pesq: true #false # compute pesq?
+eval_every: 2
 keep_last: 0
 
 # Optimization related
@@ -44,7 +44,7 @@ beta2: 0.999
 stft_loss: False
 stft_sc_factor: .5
 stft_mag_factor: .5
-epochs: 50 #100
+epochs: 250 #100
 batch_size: 4
 max_norm: 5
 # learning rate scheduling
