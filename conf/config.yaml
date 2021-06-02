@@ -64,7 +64,7 @@ swave:
   H: 128
   R: 6
   C: 2
-  input_normalize: False
+  input_normalize: True
 
 # Experiment launching, distributed
 ddp: false
